@@ -4,7 +4,7 @@
 [![Code: Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![Reproducible](https://img.shields.io/badge/reproducible-yes-brightgreen)](#reproduce)
 [![Dataset: BNCI2014-001](https://img.shields.io/badge/dataset-BNCI2014--001-informational)](https://moabb.neurotechx.com/docs/generated/moabb.datasets.BNCI2014_001.html)
-[![DOI](https://img.shields.io/badge/DOI-pending--zenodo-blue)](#citation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19854768.svg)](https://doi.org/10.5281/zenodo.19854768)
 
 Reproducibility bundle for the manuscript
 
