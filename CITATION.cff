@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or its outputs, please cite the manuscript and this repository."
+title: "Cross-validation methodology in motor-imagery BCI research: reproducibility code and data"
+version: "2.0.0"
+date-released: "2026-04-28"
+license: MIT
+type: software
+authors:
+  - family-names: "Sokolova"
+    given-names: "Anna"
+    orcid: "https://orcid.org/0009-0000-5733-9994"
+    email: "ansokolova@sfedu.ru"
+    affiliation: "Southern Federal University, Rostov-on-Don, Russia"
+keywords:
+  - brain-computer-interface
+  - motor-imagery
+  - eeg
+  - cross-validation
+  - reproducibility
+  - moabb
+  - bnci2014-001
+  - riemannian-geometry
+preferred-citation:
+  type: unpublished
+  title: "How Cross-Validation Choice Inflates Decoding Accuracy in Motor-Imagery EEG Brain-Computer Interfaces: A Quantitative Audit on BNCI2014-001 with a Reproducibility Checklist"
+  authors:
+    - family-names: "Sokolova"
+      given-names: "Anna"
+      orcid: "https://orcid.org/0009-0000-5733-9994"
+      email: "ansokolova@sfedu.ru"
+      affiliation: "Southern Federal University, Rostov-on-Don, Russia"
+  year: 2026
+references:
+  - type: dataset
+    title: "BNCI2014-001 (BCI Competition IV-2a)"
+    authors:
+      - family-names: "Tangermann"
+        given-names: "Michael"
+    year: 2012

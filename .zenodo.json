@@ -1,0 +1,24 @@
+{
+  "title": "Cross-validation methodology in motor-imagery BCI research: reproducibility code and data",
+  "description": "Reproducibility bundle (code, results, figures, manuscript) for a quantitative audit of cross-validation pitfalls in motor-imagery EEG BCI on the public BNCI2014-001 dataset.",
+  "creators": [
+    {
+      "name": "Sokolova, Anna",
+      "orcid": "0009-0000-5733-9994",
+      "affiliation": "Southern Federal University, Rostov-on-Don, Russia"
+    }
+  ],
+  "keywords": [
+    "brain-computer-interface",
+    "motor-imagery",
+    "EEG",
+    "cross-validation",
+    "reproducibility",
+    "MOABB",
+    "BNCI2014-001",
+    "Riemannian geometry"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open"
+}

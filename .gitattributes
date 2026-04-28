@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.py text eol=lf
+
+# Don't let docx/csv inflate the language stats
+*.docx linguist-generated=true
+*.csv  linguist-detectable=false
+*.png  binary
+*.docx binary
